@@ -40,4 +40,5 @@ func main() {
 	}
 
 	fmt.Printf("소요시간: %vms", time.Since(startTime).Milliseconds())
+	#fmt.Println(prime)
 }
